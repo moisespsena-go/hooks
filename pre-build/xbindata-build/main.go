@@ -1,7 +1,7 @@
 package xbindata_build
 
 import (
-	"github.com/ecletus/hooks"
+	"github.com/moisespsena-go/hooks"
 )
 
 func Run() error {
