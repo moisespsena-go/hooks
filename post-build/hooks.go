@@ -1,8 +1,8 @@
 package post_build
 
 import (
-	"github.com/ecletus/hooks"
-	xbindata_build_program "github.com/ecletus/hooks/post-build/xbindata-build-program"
+	"github.com/moisespsena-go/hooks"
+	xbindata_build_program "github.com/moisespsena-go/hooks/post-build/xbindata-build-program"
 )
 
 func Hooks() (jobs hooks.PostJobs) {
