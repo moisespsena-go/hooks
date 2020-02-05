@@ -1,2 +1,2 @@
 # hooks
-Many Hooks for Ecletus
+Many Hooks
