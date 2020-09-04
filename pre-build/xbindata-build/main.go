@@ -5,5 +5,5 @@ import (
 )
 
 func Run() error {
-	return hooks.NewCmd("xbindata", "build").Run()
+	return hooks.NewCmd("xbindata", "build", "--prod").Run()
 }
